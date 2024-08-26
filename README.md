@@ -29,18 +29,11 @@ I'm a passionate **Full Stack Developer** with expertise in **PHP**, **Laravel**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazharul-webbuilder&layout=compact&theme=radical)
 
-### 🚀 Featured Projects
-
-Here are a few projects that I’m proud of:
-
-- [**Project Name**](https://github.com/mazharul-webbuilder/project-name): A brief description of what the project does, the tech stack used, and why it's noteworthy.
-- [**Another Project**](https://github.com/mazharul-webbuilder/another-project): Another great project with a short description about its purpose and technology used.
-
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mazharul.webbuilder@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazharul-islam-41ba1416b)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/JBrafi19)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mazharulislam1998r@gmail.com)
 
 ### 📝 Latest Blog Posts
 
