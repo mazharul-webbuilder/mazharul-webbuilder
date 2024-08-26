@@ -35,13 +35,6 @@ I'm a passionate **Full Stack Developer** with expertise in **PHP**, **Laravel**
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/JBrafi19)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mazharulislam1998r@gmail.com)
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of the Blog Post](link-to-blog)
-- [Another Blog Post Title](link-to-another-blog)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mazharul-webbuilder&color=blue)
