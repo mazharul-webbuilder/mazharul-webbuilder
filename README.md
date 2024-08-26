@@ -4,12 +4,11 @@ I'm a passionate **Full Stack Developer** with expertise in **PHP**, **Laravel**
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on improving my skills in Laravel and Vue.js.
+- 🔭 I’m currently working at Durbar Technologies LTD and improving my skills in Laravel and Vue.js..
 - 🌱 I’m constantly learning and exploring new technologies, particularly in the web development space.
 - 👯 I’m looking to collaborate on open-source projects that make a difference.
 - 💬 Ask me about PHP, Laravel, Vue.js, or anything web development-related.
-- 📫 How to reach me: [mazharul.webbuilder@gmail.com](mailto:mazharul.webbuilder@gmail.com)
-- ⚡ Fun fact: I enjoy hiking and capturing the beauty of nature through photography.
+- 📫 How to reach me: [mazharul.webbuilder@gmail.com](mailto:mazharulislam1998r@gmail.com)
 
 ### 🛠️ Technologies & Tools
 
