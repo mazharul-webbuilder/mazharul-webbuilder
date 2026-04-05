@@ -57,15 +57,7 @@ I don’t just build features — I design systems that **scale, handle concurre
 - 📡 Developed scalable APIs for **multi-role systems (Admin, Driver, Supervisor)**  
 - 🧩 Converted static systems into **dynamic CMS-driven platforms**  
 
----
 
-### 📈 GitHub Stats  
-
-![Mazharul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazharul-webbuilder&show_icons=true&theme=radical&cache_seconds=86400)
-
-### 🏆 Top Languages  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazharul-webbuilder&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
