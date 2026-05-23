@@ -6,7 +6,7 @@
 
 ### 🌟 About Me  
 
-I’m Mazharul, a backend-focused software engineer with 3+ years of experience building **production-grade systems** using Laravel, Node.js, and modern backend architectures.
+I’m Mazharul, a backend-focused software engineer with 4+ years of experience building **production-grade systems** using Laravel, Node.js, and modern backend architectures.
 
 I don’t just build features — I design systems that **scale, handle concurrency, and solve real-world business problems**.
 
